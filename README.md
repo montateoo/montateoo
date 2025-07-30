@@ -29,9 +29,9 @@ I am a recent graduate in Computer Engineering with a strong passion for program
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=montateoo&show_icons=true&theme=gruvbox)
+![Montateoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=montateoo&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=montateoo&theme=gruvbox&border_radius=4.5)
 
 #
 <!--
