@@ -35,8 +35,7 @@ I am a recent graduate in Computer Engineering with a strong passion for program
 ![GitHub Streak](https://streak-stats.demolab.com?user=montateoo&theme=gruvbox&border_radius=4.5)
 
 #
-<details>
- <summary><h3>👨‍💻 montateoo's Coding Journey</h3></summary>
+ <h3>👨‍💻 montateoo's Coding Journey</h3>
    I started my coding journey at a young age, driven by curiosity and a fascination with how technology works and evolves. I would disassemble broken computers just to salvage their components, eventually building my very first PC from scratch. That curiosity naturally led me into the world of programming, where I discovered both talent and joy in creating small, simple games in C.
 
 Through university, I expanded my skills far beyond coding—diving deep into electronics, computer architecture, and system design—ultimately graduating as a computer engineer. This academic journey not only strengthened my technical expertise but also shaped my ability to transform curiosity into tangible, market-ready skills.
